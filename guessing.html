@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Number Guessing Game</title>
+    <link rel="stylesheet" href="guessing.css">
+</head>
+<body>
+
+<div class="game-container">
+    <h1>🎯 Number Guessing Game</h1>
+
+    <input type="number" id="max" placeholder="Enter max number">
+    <button onclick="startGame()">Start Game</button>
+
+    <input type="number" id="guess" placeholder="Enter your guess" disabled>
+    <button onclick="checkGuess()" disabled id="guessBtn">Guess</button>
+
+    <p id="message"></p>
+</div>
+
+<script src="guessing.js"></script>
+</body>
+</html>
