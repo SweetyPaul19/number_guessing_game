@@ -35,12 +35,15 @@ The game also tracks the **number of attempts** and displays it when the user gu
 ---
 
 ## 📂 Project Structure
+```
 Number-Guessing-Game/
 │
 ├── index.html
 ├── guessing.css
 ├── guessing.js
 └── README.md
+```
+
 ---
 
 ## ▶️ How to Run the Game
