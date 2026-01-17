@@ -2,7 +2,6 @@
 
 A simple **Number Guessing Game** built using **HTML, CSS, and JavaScript**.  
 This project is beginner-friendly and helps understand basic JavaScript concepts like variables, conditions, loops, and DOM manipulation.
-
 ---
 
 ## 📌 Description
@@ -15,7 +14,6 @@ After each guess, the game provides hints:
 - ⬇️ **Too low** if the guessed number is smaller than the correct number  
 
 The game also tracks the **number of attempts** and displays it when the user guesses correctly.
-
 ---
 
 ## 🚀 Features
@@ -47,22 +45,18 @@ Number-Guessing-Game/
 ---
 
 ## ▶️ How to Run the Game
-
 1. Download or clone this repository  
 2. Open the deployed link in any web browser  
 3. Enter a maximum number  
 4. Start guessing and enjoy the game 🎮
-
 ---
 
 ## 🎓 Learning Outcomes
-
 - Understanding `Math.random()` and `parseInt()`
 - Using conditional statements
 - Handling user input
 - DOM manipulation with JavaScript
 - Improving logical thinking
-
 ---
 
 ❤️ Made with love by Sweety
