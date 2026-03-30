@@ -65,4 +65,4 @@ Number-Guessing-Game/
   
 ---
 
- ### Made with ❤️ by Sweety
+ ### Made with love❤️ by Sweety
