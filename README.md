@@ -65,4 +65,10 @@ Number-Guessing-Game/
   
 ---
 
- ### Made with love❤️ by Sweety
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+### Made with love❤️ by Sweety
